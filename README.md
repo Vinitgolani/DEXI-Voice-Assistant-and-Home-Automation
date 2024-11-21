@@ -1,6 +1,8 @@
 # DEXI - Voice Assistant and Home Automation 🚀
 
-![Dexi Demo]([https://via.placeholder.com/1200x400.png?text=DEXI+Voice+Assistant+and+Automation](https://lh3.googleusercontent.com/gg/ACM6BIsR1KFk3-KAEyJz13_wzHu2UbgejPlIRIAjTnCtQyTbO8b9FmOxh_1z-I_9Ot7uTHdA3Ne0T8VdqLkONThNqUdX2ziizkJl8nV3s5LdTP7aI4DmmaEdq1u0XDZHsWWp7BTA9v048D4y8xsWVdgjnj3RbsbjJPEh_2DrWFCEYIiZnogUekj-))
+<p align="center">
+  <img src="https://github.com/Vinitgolani/DEXI-Voice-Assistant-and-Home-Automation/blob/main/DEXI_logo.jpeg?raw=true" alt="Dexi Logo" width="400" height="300"/>
+</p>
 
 **Dexi** is a sophisticated voice assistant and home automation system designed to bring convenience and intelligence to your everyday tasks. Powered by Python and integrated with various APIs, Dexi combines the capabilities of voice recognition, natural language processing, and IoT control to make your life easier and more productive.
 
